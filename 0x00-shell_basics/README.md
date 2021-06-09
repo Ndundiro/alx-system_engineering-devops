@@ -1,0 +1,1 @@
+**This are the shell basics learnt in ALX 0x00.**
